@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "77947"
 tags: Barclays
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/barclays/master/_listings/barclays/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,7 +22,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can provide multiple ATMs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//atms/
   tags: Atms
   properties:
@@ -35,7 +35,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can own multiple branches.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//branches/
   tags: Branches
   properties:
@@ -48,7 +48,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can own multiple PCA products.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//personal-current-accounts/
   tags: Personal, Current, Accounts
   properties:
@@ -61,7 +61,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can own multiple BCA products.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//business-current-accounts/
   tags: Business, Current, Accounts
   properties:
@@ -74,7 +74,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can own multiple SME Unsecured Loan products.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//unsecured-sme-loans/
   tags: Unsecured, Sme, Loans
   properties:
@@ -87,7 +87,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can own multiple SME Commercial Credit Card products.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//commercial-credit-cards/
   tags: Commercial, Credit, Cards
   properties:
@@ -105,7 +105,7 @@ apis:
     Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management),
     Barclaycard, Investment Banking and Africa.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1/
   tags: Barclays
   properties:
@@ -133,7 +133,7 @@ x-common:
 - type: x-twitter
   url: https://twitter.com/Barclays
 - type: x-website
-  url: https://developer.barclays.com
+  url: https://barclays.com
 include: []
 maintainers:
 - FN: Kin Lane

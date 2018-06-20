@@ -4,7 +4,7 @@ description: This is a repository of barclays APIs, self-contained as a Github r
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/barclays.png
 created: "2018-02-24"
-modified: "2018-05-24"
+modified: "2018-06-20"
 url: http://barclays.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
